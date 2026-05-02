@@ -147,7 +147,7 @@ This project shows how data analysis can help businesses understand customers be
 ---
 
 ## 👨‍💻 Author
-- Your Name
+- Sabale Vaibhav Sanjay
 
 ---
 
